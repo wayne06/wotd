@@ -199,9 +199,9 @@ wordLists.custom = [
 
 本项目采用 MIT 协议开源，欢迎学习和使用。
 
-## 🙏 致谢
+## Development Notes
 
-感谢所有为这个项目提供反馈和建议的用户！
+Code in this project was generated with assistance from AI tools.
 
 ---
 
